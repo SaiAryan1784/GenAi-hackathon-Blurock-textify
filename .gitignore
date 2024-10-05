@@ -1,1 +1,5 @@
 whisper_env/
+
+venv/
+
+uploads/

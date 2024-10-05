@@ -3,6 +3,7 @@ certifi==2024.8.30
 charset-normalizer==3.3.2
 filelock==3.16.1
 fsspec==2024.9.0
+flask==2.3.3
 google-api-core==2.20.0
 google-api-python-client==2.146.0
 google-auth==2.35.0
